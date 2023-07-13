@@ -85,4 +85,26 @@ arrow = "    *\n   * *\n  *   *\n *     *\n***   ***\n  *   *\n  *   *\n  *****"
 duplicated_arrows = arrow + arrow
 print(duplicated_arrows)
 
+"  octal  number"
+print(0o123)
+""" hexadecimal number """
+print(0x123)
 
+print(3E8)
+
+print(0.0000000000000000000001)
+
+"backslash aacts as the escapre character"
+print("I like \"Monty Python\"")
+
+" python literals "
+print("\"I'm\"\n\"\"learning\"\"\n\"\"\"Python\"\"\"")
+
+""" PRINT('"I\'m"\n') """
+
+""" OPERATORS """
+""" result profuced by a division operator is always float """
+print(6 / 3)
+
+"intger floor division"
+print(6 // 3.)
